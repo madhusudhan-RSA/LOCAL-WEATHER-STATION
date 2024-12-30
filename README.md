@@ -1,6 +1,6 @@
-# Arduino Weather Station
+# Local Weather Station
 
-This is a simple **Arduino-based Weather Station** that monitors and displays environmental conditions such as temperature, humidity, and atmospheric pressure. The data is displayed on a 16x2 I2C LCD, and it can also be monitored via Bluetooth.
+This is a **Local Weather Station** that monitors and displays environmental conditions such as temperature, humidity, and atmospheric pressure. The data is displayed on a 16x2 I2C LCD, and it can also be monitored via Bluetooth.
 
 ## Features
 
